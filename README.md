@@ -19,3 +19,5 @@ Introduction
 Object Oriented Programming
 
 [P1.java](https://www.hackerrank.com/challenges/java-inheritance-1/problem)  
+[P2.java](https://www.hackerrank.com/challenges/java-inheritance-2/problem)  
+[P3.java](https://www.hackerrank.com/challenges/java-abstract-class/problem)  
