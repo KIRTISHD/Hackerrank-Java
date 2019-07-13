@@ -23,3 +23,5 @@ Object Oriented Programming
 [P3.java](https://www.hackerrank.com/challenges/java-abstract-class/problem)  
 [P4.java](https://www.hackerrank.com/challenges/java-interface/problem)  
 [P5.java](https://www.hackerrank.com/challenges/java-method-overriding/problem)  
+[P6.java](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem)  
+[P7.java](https://www.hackerrank.com/challenges/java-instanceof-keyword/problem)  
