@@ -15,3 +15,7 @@ Introduction
 [P11.java](https://www.hackerrank.com/challenges/java-int-to-string/problem)  
 [P12.java](https://www.hackerrank.com/challenges/java-date-and-time/problem)  
 [P13.java](https://www.hackerrank.com/challenges/java-currency-formatter/problem)  
+
+Object Oriented Programming
+
+[P1.java](https://www.hackerrank.com/challenges/java-inheritance-1/problem)  
