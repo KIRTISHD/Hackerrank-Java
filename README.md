@@ -14,3 +14,4 @@ Introduction
 [P10.java](https://www.hackerrank.com/challenges/java-static-initializer-block/problem)  
 [P11.java](https://www.hackerrank.com/challenges/java-int-to-string/problem)  
 [P12.java](https://www.hackerrank.com/challenges/java-date-and-time/problem)  
+[P13.java](https://www.hackerrank.com/challenges/java-currency-formatter/problem)  
