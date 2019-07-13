@@ -25,3 +25,12 @@ Object Oriented Programming
 [P5.java](https://www.hackerrank.com/challenges/java-method-overriding/problem)  
 [P6.java](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem)  
 [P7.java](https://www.hackerrank.com/challenges/java-instanceof-keyword/problem)  
+[P8.java](https://www.hackerrank.com/challenges/java-iterator/problem)  
+
+Data Strucutes
+
+[P1.java](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem)  
+[P2.java](https://www.hackerrank.com/challenges/java-2d-array/problem)  
+[P3.java](https://www.hackerrank.com/challenges/java-negative-subarray/problem)  
+[P4.java](https://www.hackerrank.com/challenges/java-arraylist/problem)  
+[P5.java](https://www.hackerrank.com/challenges/java-1d-array/problem)  
