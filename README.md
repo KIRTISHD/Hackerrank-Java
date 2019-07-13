@@ -21,3 +21,5 @@ Object Oriented Programming
 [P1.java](https://www.hackerrank.com/challenges/java-inheritance-1/problem)  
 [P2.java](https://www.hackerrank.com/challenges/java-inheritance-2/problem)  
 [P3.java](https://www.hackerrank.com/challenges/java-abstract-class/problem)  
+[P4.java](https://www.hackerrank.com/challenges/java-interface/problem)  
+[P5.java](https://www.hackerrank.com/challenges/java-method-overriding/problem)  
